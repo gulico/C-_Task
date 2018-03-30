@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C-sharp_Task\Task_3\ex_2\ex_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C-sharp_Task\Task_3\ex_2\ex_2\bin\Debug\ex_2.exe
+C:\Users\Administrator\Desktop\C-sharp_Task\Task_3\ex_2\ex_2\bin\Debug\ex_2.pdb
+C:\Users\Administrator\Desktop\C-sharp_Task\Task_3\ex_2\ex_2\obj\x86\Debug\ex_2.exe
+C:\Users\Administrator\Desktop\C-sharp_Task\Task_3\ex_2\ex_2\obj\x86\Debug\ex_2.pdb
