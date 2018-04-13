@@ -29,21 +29,29 @@ namespace ex_3
                     return true;
                 }
             }
-            public void print() {
-                Console.WriteLine("staticNumber = " + staticNumber);
+            public void printn() {
+                //Console.WriteLine("staticNumber = " + staticNumber);
                 Console.WriteLine("number = " + number);
+            }
+            public static void print()
+            {
+                Console.WriteLine("staticNumber = " + staticNumber);
+                //Console.WriteLine("number = " + number);
             }
         }
         static void Main(string[] args)
         {
             A a = new A();
-            a.print();
+            A.print();
+            a.printn();
             //12eed
             a.Input();
-            a.print();
+            A.print();
+            a.printn();
             //123
             a.Input();
-            a.print();
+            A.print();
+            a.printn();
             Console.Read();
         }
     }
